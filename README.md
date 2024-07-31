@@ -1,5 +1,5 @@
 # FEMCE (Finite Element Magnetocaloric Effect)
-A public 3D software for the magnetocaloric effect calculation. Accepts STL files of refrigerant designs or you can design your own simple shapes with the built-in model maker. **Important** It requires the freely available matlab runtime 24.1 (R2024a - https://www.mathworks.com/products/compiler/matlab-runtime.html).
+A public 3D software for the magnetocaloric effect calculation. Accepts STL files of refrigerant designs or you can design your own simple shapes with the built-in model maker.
 
 ## Functionality
 FEMCE main proficiency is to calculate the magnetocaloric effect on real-world 3D shaped refrigerants with non-linear magnetic properties. For example: gadolinium sheets distanced a few mm from each other.
