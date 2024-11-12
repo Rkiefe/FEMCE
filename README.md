@@ -12,4 +12,4 @@ FEMCE allows the user to import 3D designs built with external tools such as Ble
 It outputs the effective, maximum and minimum $\Delta T$ and $\Delta S$ as well as its magnetization and other important results.
 
 ## Method
-FEMCE, as the name implies, uses the finite element method to solve a non-linear magnetostatic equation to calculate the 3D magnetic field $H$, which is considered constant on each element of the mesh. The non-linearity of this magnetostatics problem is approached through a variation on the Piccard iteration method.
+FEMCE, as the name implies, uses the finite element method to solve a non-linear magnetostatic equation to calculate the 3D magnetic field $H$, which is considered constant on each element of the mesh. The non-linearity of this magnetostatics problem is handled by the Newton-Raphson method since version 1.6. Versions 1.5 and below use the Piccard (fixed point) iteration method.
