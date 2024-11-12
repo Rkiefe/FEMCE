@@ -4,7 +4,8 @@ A public 3D software for the magnetocaloric effect calculation. Accepts STL file
 ## Functionality
 FEMCE main proficiency is to calculate the magnetocaloric effect on real-world 3D shaped refrigerants with non-linear magnetic properties. For example: gadolinium sheets distanced a few mm from each other.
 
-![femce_gui](https://github.com/user-attachments/assets/ea1554dc-990e-4203-a79e-0b52a8ffce7e)
+![Screenshot 2024-11-12 154804](https://github.com/user-attachments/assets/0a364bc3-1423-40c8-8077-04721b710a65)
+
 
 FEMCE allows the user to import 3D designs built with external tools such as Blender (by STL files), and calculate both the heterogeneous magnetic field and magnetocaloric effect for the thermodynamic properties provided by the user (magnetization and specific heat or temperature change as a function of field and temperature).
 
