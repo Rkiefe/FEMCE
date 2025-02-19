@@ -1,5 +1,5 @@
 # FEMCE (Finite Element Magnetocaloric Effect)
-A public 3D software for the magnetocaloric effect calculation. Accepts STL files of refrigerant designs or you can design your own simple shapes with the built-in model maker. If you use FEMCE please cite its article: R. Kiefe, J.S. Amaral "FEMCE - A 3D finite element simulation tool for magnetic refrigerants" International Journal of Refrigeration available online https://doi.org/10.1016/j.ijrefrig.2025.02.017
+A public 3D software for the magnetocaloric effect calculation. Accepts STL files of refrigerant designs or you can design your own simple shapes with the built-in model maker. If you use FEMCE **please cite its article**: R. Kiefe, J.S. Amaral "FEMCE - A 3D finite element simulation tool for magnetic refrigerants" International Journal of Refrigeration available online https://doi.org/10.1016/j.ijrefrig.2025.02.017
 
 ## Functionality
 FEMCE main proficiency is to calculate the magnetocaloric effect on real-world 3D shaped refrigerants with non-linear magnetic properties. For example: gadolinium sheets distanced a few mm from each other.
