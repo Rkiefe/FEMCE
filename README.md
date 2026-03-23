@@ -29,3 +29,8 @@ FEMCE can do much more when not limited by a user-interface (GUI). Additional fu
 - Combine materials and refrigerants in the same simulation (add iron, magnets, multiple refrigerant compositions, etc)
 
 For this additional features, please contact rodrigokiefe@ua.pt or jamaral@ua.pt
+
+## Cited by
+List of some papers citing FEMCE
+- Appl. Phys. Lett. 127, 174104 (2025)
+- https://arxiv.org/abs/2601.13239
