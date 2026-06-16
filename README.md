@@ -4,6 +4,8 @@ Magnetic refrigerant designs (packed beds, channeled structures, etc) impact the
 
 If you use FEMCE **please cite its article**: R. Kiefe, J.S. Amaral "FEMCE - A 3D finite element simulation tool for magnetic refrigerants" International Journal of Refrigeration available online https://doi.org/10.1016/j.ijrefrig.2025.02.017
 
+**Downloads**: FEMCE has currently more than 60 downloads, not counting direct repo clones!
+
 ## Features
 - State-of-the-art numerical methods for maximum performance and stability (compatible with first-order phase transitions)
 - Import any 3D model and make it simulation-ready with the press of a button (.stl files)
